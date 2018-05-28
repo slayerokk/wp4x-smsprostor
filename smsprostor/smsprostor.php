@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Интеграция СМС ПРОСТОР
+Plugin Name: ProstorSMS integration gateway
 Plugin URI:  https://wordpress.org/plugins/smsprostor/
 Description: Отправка смс-сообщений Вашим клиентам
 Version:     1.0.0
